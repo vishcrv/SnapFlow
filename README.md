@@ -13,6 +13,9 @@
 - Spacing errors are there (***WIP***)
 
 
+![patch#1](https://github.com/user-attachments/assets/2fb97a35-b9bc-4e30-86ee-f4e7c574c031)
+
+
 component changes :
 
 1. navbar (logo, list of links, dashboard button)
